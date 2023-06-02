@@ -5,9 +5,9 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.ui import WebDriverWait
 from multiprocessing import Pool
 
-KahootId = "611254"
-Prefijo = "Bot Name"
-NumeroDeBots = 10
+KahootId = "8208668"
+Prefijo = "Bot"
+NumeroDeBots = 100
 
 
 def mainFunc(number):
